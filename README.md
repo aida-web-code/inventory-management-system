@@ -26,3 +26,6 @@ This project represents a conceptual design of an inventory management system fo
 ## Purpose
 
 To help businesses efficiently manage inventory, reduce stock errors, and improve operational efficiency.
+## Documentation
+- [System Overview](system-overview.md)
+- [System Architecture](system-architecture.md)
